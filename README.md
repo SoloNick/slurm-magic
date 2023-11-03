@@ -20,12 +20,12 @@ Installation
 
 `slurm-magic` can be installed from this repository via `pip`:
 ```bash
-pip install git+https://github.com/NERSC/slurm-magic.git
+pip install git+https://github.com/SoloNick/slurm-magic.git
 ```
 `conda` users can include the following in an `environment.yml` file:
 ```yaml
   - pip:
-    - git+https://github.com/NERSC/slurm-magic.git
+    - git+https://github.com/SoloNick/slurm-magic.git
 ```
 
 SLURM Magic Commands
